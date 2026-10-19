@@ -1,0 +1,20 @@
+REPRESENTACIÓN FORMAL: ESPACIO DE ESTADOS (CASO IRA - PERÚ)
+
+1. ESTADO INICIAL: 
+Sistema de salud en el periodo actual con 824,978 casos de IRA proyectados, recursos centralizados (stock de 2.22 millones de vacunas contra neumococo) y distribución regional de riesgo no optimizada.
+
+2. ESTADO OBJETIVO: 
+Asignación óptima del 100% de los recursos disponibles a las regiones vulnerables, logrando una reducción significativa de episodios IRA y cero defunciones prevenibles en menores de 5 años.
+
+3. ACCIONES (OPERADORES): 
+- Distribuir lotes de vacunas a regiones específicas.
+- Ejecutar campañas preventivas ("Abrigamos vidas").
+- Reabastecer inventarios regionales contingentes.
+
+4. RESTRICCIONES: 
+- Inventario estrictamente finito (Límite máximo: 2,226,142 dosis).
+- Capacidad logística y de distribución regional.
+- Presupuesto estatal limitado.
+
+5. FUNCIÓN DE COSTO: 
+Minimizar la cantidad de defunciones y episodios graves, maximizando la cobertura de vacunación en las poblaciones objetivo al menor costo logístico posible.
